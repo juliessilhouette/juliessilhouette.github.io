@@ -1,1 +1,19 @@
-
+html {
+    background-color: rgb(237, 238, 220);
+  }
+  .header {
+    text-align: center;
+    color: rgb(146, 140, 136);
+    line-height:1.7;
+  }
+  .body {
+    text-align: center;
+    color: rgb(146, 140, 136);
+    line-height:5.5;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
