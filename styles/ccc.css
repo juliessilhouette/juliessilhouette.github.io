@@ -7,9 +7,9 @@ html {
     line-height:1.7;
   }
   .body {
-    text-align: center;
+    margin-left: 18%;
     color: rgb(237, 238, 220);
-    line-height:5.5;
+    line-height:3.0;
   }
   img {
     display: block;
