@@ -6,6 +6,7 @@ html {
   position: relative;
   animation-name: drop;
   animation-duration: 7s;
+  font-family: Lucida Console;
 }
 
   .header {
@@ -37,6 +38,6 @@ html {
 }
 
 @keyframes drop {
-  0%   {left:0px; top:-3000px;}
+  0%   {left:-3000px; top:0px;}
   25%  {left:0px; top:0px;}
 }
