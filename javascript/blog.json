@@ -1,6 +1,6 @@
 {
     "post": [
-        { "title": "The First Blog" , "text": "Comming Soon !" , "link": "blog.html" },
+        { "title": "The First Blog" , "text": "why you should <br> LOVE arcane." , "link": "blog.html" },
         { "title": "Extra test blog" , "text": "This is Just a test :)" , "link": "#" },
         { "title": "Extra test blog" , "text": "Just a test :)" , "link": "#" },
         { "title": "Extra test blog" , "text": "just another test :)" , "link": "#" }
