@@ -1,8 +1,8 @@
 {
     "post": [
         { "title": "The First Blog" , "text": "why you should <br> LOVE arcane." , "link": "blog.html" },
-        { "title": "Extra test blog" , "text": "This is Just a test :)" , "link": "#" },
-        { "title": "Extra test blog" , "text": "Just a test :)" , "link": "#" },
-        { "title": "Extra test blog" , "text": "just another test :)" , "link": "#" }
+        { "title": "Empty" , "text": "-------Empty------" , "link": "#" },
+        { "title": "Empty" , "text": "----Empty----" , "link": "#" },
+        { "title": "Empty" , "text": "-------Empty-------" , "link": "#" }
     ]
 }
