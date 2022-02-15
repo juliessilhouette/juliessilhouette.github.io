@@ -37,9 +37,11 @@ html {
 .footer {
   /*decor*/
   background-color: rgb(139, 58, 58);
+  color: rgb(252, 233, 233);
+
+  /*position*/
   padding: 20px;
   text-align: center;
-  color: rgb(252, 233, 233);
   line-height: 1.7
   }
 
