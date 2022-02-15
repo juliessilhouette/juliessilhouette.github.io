@@ -1,28 +1,60 @@
 html { 
+  /*decor*/
   background-color: rgb(109, 128, 107);
-
   font-family: Lucida Console;
 
+  /*position*/
   margin-left: auto;
   margin-right: auto;
   width: 73%;
 }
+
 .header {
+  /*decor*/
   background-color: #5f6e5d;
+  color: rgb(237, 232, 230);
+
+  /*position*/
   padding: 20px;
   text-align: center;
-  color: rgb(237, 232, 230);
   line-height: 1.7
 }
+
 .body {
-  text-align: center; 
+  /*decor*/
   color: rgb(237, 232, 230);
+
+  /*position*/
+  text-align: center; 
   line-height: 3.0
 }
+
 .footer {
+  /*decor*/
   background-color: #5f6e5d;
+  color: rgb(237, 232, 230);
+
+  /*position*/
   padding: 20px;
   text-align: center;
-  color: rgb(237, 232, 230);
   line-height: 1.7
+}
+
+
+/*post decor*/
+a {
+  color: rgb(237, 232, 230);
+}
+a:hover {
+  color: #728370;
+}
+post {
+  font-family: "pixel";
+  color: rgb(237, 232, 230);
+  background-color: #5f6e5d;
+  border-radius: 10px;
+  padding: 10px 27px;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
 }
