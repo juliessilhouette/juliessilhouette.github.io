@@ -1,8 +1,8 @@
 {
     "post": [
-        { "title": "The <br >First Blog" , "text": "why you should <br> LOVE arcane." , "link": "blog.html" },
+        { "title": "The <br>First Blog" , "text": "why you should <br> LOVE arcane." , "link": "blog.html" },
         { "title": "Why aren't my <br> souffles rising?" , "text": "why? because you're an <br> idiot." , "link": "blog2.html" },
         { "title": "Jule, you idiot <br> most your <br>recipes are empty" , "text": "ok and." , "link": "blog3.html" },
-        { "title": "Empty" , "text": "----Empty---" , "link": "#" }
+        { "title": "my brother keeps <br> annoying me about <br> javascript" , "text": "what should <br> i do?" , "link": "blog4.html" }
     ]
 }
