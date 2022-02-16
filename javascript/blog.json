@@ -4,6 +4,7 @@
         { "title": "Why aren't my <br> souffles rising?" , "text": "why? because you're an <br> idiot." , "link": "blog2.html" },
         { "title": "Jule, you idiot <br> most your <br>recipes are empty" , "text": "ok and." , "link": "blog3.html" },
         { "title": "-deep.html-" , "text": "wow  <br>so <br> deep" , "link": "blog4.html" },
-        { "title": "my brother keeps <br> annoying me about <br> javascript" , "text": "what should <br> i do?" , "link": "blog5.html" }
+        { "title": "my brother keeps <br> annoying me about <br> javascript" , "text": "what should <br> i do?" , "link": "blog5.html" },
+        { "title": "" , "text": "" , "link": "blog6.html" }
     ]
 }
