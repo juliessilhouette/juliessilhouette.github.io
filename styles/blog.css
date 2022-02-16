@@ -50,3 +50,15 @@ html {
     0%   {left:-3000px; top:0px;}
     25%  {left:0px; top:0px;}
   }
+
+  .button {
+    background-color: #923232;
+    border: none;
+    color: rgb(231, 221, 221);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+  }
