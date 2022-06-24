@@ -1,0 +1,94 @@
+html { 
+  /*decor*/
+  background-color: rgb(106, 95, 81);
+  font-family: chalkduster;
+
+
+  /*position*/
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+}
+
+.header {
+  /*decor*/
+  color: rgb(231, 226, 222);
+  text-decoration: none;
+
+  /*position*/
+  text-align: center;
+  margin-left: 4.5%;
+  line-height: 0;
+}
+
+.navbar {
+  /*decor*/
+  color: rgb(231, 226, 222);
+  text-decoration: none;
+
+  /*position*/
+  margin-left: 2%;
+
+}
+
+.image {
+  /*decor*/
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+
+  /*position*/
+  margin-left: -8%;
+
+}
+
+
+.image2 {
+  /*decor*/
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+
+  /*position*/
+  margin-left: 0%;
+
+}
+
+
+.body {
+  /*decor*/
+  color: rgb(77, 68, 59);
+
+  /*position*/
+  text-align: center; 
+  line-height: 1.4
+}
+
+.footer {
+  /*decor*/
+  background-color: #5f6e5d;
+  color: rgb(237, 232, 230);
+
+  /*position*/
+  padding: 20px;
+  text-align: center;
+  line-height: 1.7
+}
+
+
+/*post decor*/
+a {
+  color: rgb(231, 226, 222);
+}
+a:hover {
+  color: rgb(57, 50, 44);
+}
+
+post {
+  font-family: "pixel";
+  color: rgb(237, 232, 230);
+  background-color: #5f6e5d;
+  border-radius: 10px;
+  padding: 10px 27px;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+}
