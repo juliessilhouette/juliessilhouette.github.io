@@ -1,3 +1,9 @@
+/*animation*/
+@keyframes drop {
+  0%   {left:-3000px; top:0px;}
+  25%  {left:0px; top:0px;}
+}
+
 html { 
   /*decor*/
   background-color: rgb(106, 95, 81);
@@ -8,6 +14,11 @@ html {
   margin-left: 0;
   margin-right: 0;
   width: 100%;
+
+    /*animation*/
+    position: relative;
+    animation-name: drop;
+    animation-duration: 7s;
 }
 
 .header {
