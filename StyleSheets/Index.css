@@ -3,11 +3,14 @@
   0%   {left:-3000px; top:0px;}
   25%  {left:0px; top:0px;}
 }
-
+@font-face {
+  font-family: Chalkduster;
+  src: url('/Fonts/Chalkduster.ttf');
+}
 html { 
   /*decor*/
   background-color: rgb(106, 95, 81);
-  font-family: chalkduster;
+  font-family: Chalkduster;
 
 
   /*position*/
